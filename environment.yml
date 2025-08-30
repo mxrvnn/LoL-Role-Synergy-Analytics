@@ -1,0 +1,29 @@
+name: base
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - python=3.13
+  - conda=25.7.0
+  - setuptools
+  - pip
+  - wheel
+  - conda-anaconda-telemetry[version='>=0.3.0']
+  - conda-anaconda-tos[version='>=0.2.2']
+  - conda-content-trust
+  - conda-libmamba-solver
+  - menuinst
+  - anaconda_prompt
+  - anaconda_powershell_prompt
+  - anaconda-anon-usage
+  - anaconda-auth
+  - numpy
+  - ipykernel
+  - pandas
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - tabulate
+prefix: C:\Users\Marvin\miniconda3
