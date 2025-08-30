@@ -14,7 +14,7 @@ Repo includes Python scripts, visualisations, and a sample dataset.
 
 ---
 
-## 🚀 Highlights
+## Highlights
 - Data wrangling with **Pandas**
 - Statistical modelling with **Statsmodels** and **SciPy**
 - Visualisations with **Matplotlib** & **Seaborn**
@@ -23,7 +23,7 @@ Repo includes Python scripts, visualisations, and a sample dataset.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 lol-role-synergy-analytics/
 ├─ src/ # Python scripts
