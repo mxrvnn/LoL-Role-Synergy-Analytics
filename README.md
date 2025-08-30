@@ -9,7 +9,7 @@ This project investigates factors influencing win rates in *League of Legends*, 
 - ADC–Support synergy in the bottom lane
 - Statistical relationships between player metrics and win outcomes
 
-Full report: [`Role Synergy and Win Determinants in League of Legends.pdf`](Role Synergy and Win Determinants in League of Legends.pdf)  
+Full report: [`Role Synergy and Win Determinants in League of Legends.pdf`].
 Repo includes Python scripts, visualisations, and a sample dataset.
 
 ---
